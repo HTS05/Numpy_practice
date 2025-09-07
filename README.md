@@ -1,2 +1,1 @@
-# Numpy_practice
-Some numpy questions given by a class teacher as an assignment 
+This repository includes practice questions on NumPy given as a class assignment. The exercises cover basic to intermediate concepts such as array creation, indexing, slicing, mathematical operations, and more
